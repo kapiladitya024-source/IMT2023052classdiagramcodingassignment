@@ -1,4 +1,4 @@
-# IMT2023052classdiagramcodingassignment
+# IMT2023052 class diagram coding assignment
 Banking System Demo (C++)
 
 This project is a simple banking system simulation implemented in C++ to demonstrate object-oriented programming concepts like classes, inheritance, encapsulation, and polymorphism.
